@@ -1,1 +1,1 @@
-![image](numpy.PNG)
+![image](numpy.png)
