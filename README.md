@@ -2,3 +2,6 @@
 
 ### Numpy
 ![](images/numpy.png)
+
+### Pandas
+![](images/pandas.png)
