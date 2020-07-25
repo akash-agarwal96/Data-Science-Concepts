@@ -5,3 +5,6 @@
 
 ### Pandas
 ![](images/pandas.png)
+
+### Data Visualization
+![](images/DV.png)
